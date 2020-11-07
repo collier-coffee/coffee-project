@@ -3,9 +3,9 @@
 function renderCoffee(coffee) {
     let html = '<p class="coffee">';
     // html += '<br>' + coffee.id + '<br>';
+    // taken out to avoid showing the coffee ID numbers
     html += '<br>' + coffee.name + ' ';
     html += coffee.roast + '<br>';
-    // html += '</tr>';
 
     return html;
 }

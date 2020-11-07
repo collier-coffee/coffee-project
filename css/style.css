@@ -36,11 +36,11 @@ hr {
 
 @media screen and (min-width: 576px) {
     body {
-        background-image: url('../img/coffee-portrait.jpeg');
+        /*background-image: url('../img/coffee-portrait.jpeg');*/
         background-size: cover;
     }
     .coffeeList {
-        color: white;
+        color: black;
     }
     img {
         opacity: 0.5;
@@ -49,31 +49,31 @@ hr {
 
 @media screen and (min-width: 768px) {
     body {
-        background-image: url('../img/coffe-landscape.jpeg');
+        /*background-image: url('../img/coffe-landscape.jpeg');*/
         background-size: cover;
     }
     .coffeeList {
-        color: white;
+        color: black;
     }
 }
 
 /*992 and 1200*/
 @media screen and (min-width: 992px) {
     body {
-        background-image: url('../img/coffee-mug.jpeg');
+        /*background-image: url('../img/coffee-mug.jpeg');*/
         background-size: cover;
     }
     .coffeeList {
-        color: white;
+        color: black;
     }
 }
 
 @media screen and (min-width: 1200px) {
     body {
-        background-image: url('../img/coffee-beans.jpeg');
+        /*background-image: url('../img/coffee-beans.jpeg');*/
         background-size: cover;
     }
     .coffeeList {
-        color: white;
+        color: black;
     }
 }
